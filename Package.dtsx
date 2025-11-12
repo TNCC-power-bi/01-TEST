@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="11/12/2025 10:42:44 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="TDWPOWERBI"
+  DTS:CreatorName="NPDOMAIN\Power.Bi"
+  DTS:DTSID="{22EE90CE-C2D9-4EBE-A8DD-66FA4D8C81CF}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.2000.180"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{D83DAA73-76C7-4E2A-849B-5FE243FC31DA}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
